@@ -10,6 +10,9 @@ A modern admin dashboard
 ### Homepage
 ![Homepage](public/screenshots/home.png)
 
+### Loadable Homepage
+![Homepage](public/screenshots/loadable-homepage.png)
+
 ### Responsive 1
 ![Homepage](public/screenshots/mobile.png)
 

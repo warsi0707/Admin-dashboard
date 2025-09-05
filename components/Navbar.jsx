@@ -26,7 +26,7 @@ export default function Navbar() {
         <h1 className='text-2xl'>Wealth Elite</h1>
         <div className='hidden justify-center items-center border rounded-sm  md:flex'>
             <input className='md:w-96 outline-none px-2 p-1 bg-gray-200 ' type="text" placeholder='search' />
-            <button className='bg-slate-500 p-2.5 border-l'><CiSearch/></button>
+            <button className='bg-slate-300 rounded-sm p-2.5 border-l'><CiSearch/></button>
         </div>
         <div className=' justify-center items-center md:gap-4 text-2xl hidden lg:flex'>
             <Link href={"#"}><IoIosTrendingUp/></Link>
